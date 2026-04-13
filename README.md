@@ -24,14 +24,14 @@ When I'm not coding, I'm creating tech content at [@anjali.decoded](https://inst
 </td>
 <td valign="top" width="45%">
 
-<img src="https://raw.githubusercontent.com/rathodanjali629-wq/rathodanjali629-wq/main/assets/city_wall_gh.svg" width="100%" alt="pixel city"/>
+<img src="https://raw.githubusercontent.com/rathodanjali629-wq/rathodanjali629-wq/main/assets/city_wall.png" width="100%" alt="pixel city"/>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rathodanjali629-wq/rathodanjali629-wq/main/assets/rabbit_gh.svg" width="180" alt="pixel rabbit"/>
+<img src="https://raw.githubusercontent.com/rathodanjali629-wq/rathodanjali629-wq/main/assets/rabbit.png" width="180" alt="pixel rabbit"/>
 </div>
 
 ---
